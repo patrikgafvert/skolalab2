@@ -1,0 +1,6 @@
+.vagrant/
+.*
+output0.json
+output1.json
+output.md
+output.pdf
